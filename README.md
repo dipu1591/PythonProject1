@@ -27,6 +27,10 @@ I cordially invite you to review the `Project_Solution.ipynb` file, where the ou
 
 <br/>
 
+The project necessitates a comprehensive array of packages to ensure its seamless execution and functionality. The file `Required packages.txt` meticulously lists all dependencies, specifying exact versions to guarantee compatibility and reproducibility of results. It is paramount for contributors and users to adhere to these specifications to maintain the integrity and efficiency of the project's computational environment.
+
+<br/>
+
 <br/>
 
 <br/>
