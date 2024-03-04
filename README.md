@@ -1,1 +1,26 @@
-Conducted a crime data analysis using Python, answering solutions to ten critical queries through statistical analysis and visualizations on common offenses, crime frequency, yearly trends, high-risk locations, and shooting incidents, aiding in the optimization of patrol schedules, resource allocation, and preventive measures.
+# Conducting crime data analysis using Python: A Case Study of Hamburg Metropolitan Police
+
+The Metropolitan Police of Hamburg has recently embarked on an initiative to harness the power of data analytics for enhancing the efficacy of their patrol schedules and resource allocation, as well as implementing preemptive measures to curb criminal activities. This endeavor is focused on meticulously analyzing data accumulated over the past four years, with the objective of resolving ten pivotal inquiries that are crucial for strategic decision-making and operational optimization. These inquiries encompass a broad spectrum of aspects related to crime patterns, temporal trends, and geographical distributions, as outlined below:
+
+1. What are the most common crimes reported in terms of offense group?
+2. How has the number of crimes changed over the years?
+3. Do more crimes occur on certain dates of the month?
+4. Have there been more crimes in any month over the past years?
+5. Does crime tend to increase at certain times of the day?
+6. In which months were the number of crimes above average?
+7. Are certain times of the day more prone to specific types of crimes?
+8. Which districts have the highest number of crimes?
+9. How has the frequency of different types of crimes changed over time?
+10. What proportion of the incidents involved shootings?
+
+
+To address these inquiries, the `Project_Solution.ipynb` file within this repository presents a comprehensive analysis, employing advanced statistical techniques and data preprocessing to visualize the findings. This approach not only elucidates the underlying patterns and trends in crime data but also equips the Hamburg Metropolitan Police with actionable insights to refine their operational strategies effectively.
+
+
+I cordially invite you to review the `Project_Solution.ipynb` file, where the outcomes of our analytical endeavors are meticulously documented through insightful visualizations and interpretations, paving the way for data-driven enhancements in public safety measures.
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu1591/)
