@@ -1,11 +1,14 @@
-## Conducting Crime Data Analysis Using Python: A Case Study of Hamburg Metropolitan Police
+# Conducting Crime Data Analysis Using Python: A Case Study of Hamburg Metropolitan Police
+
+<br/>
+<br/>
 
 The Metropolitan Police of Hamburg has recently embarked on an initiative to harness the power of data analytics for enhancing the efficacy of their patrol schedules and resource allocation, as well as implementing preemptive measures to curb criminal activities. This endeavor is focused on meticulously analyzing data accumulated over the past four years, with the objective of resolving ten pivotal inquiries that are crucial for strategic decision-making and operational optimization. These inquiries encompass a broad spectrum of aspects related to crime patterns, temporal trends, and geographical distributions, as outlined below:
 
 <br/>
 
 ## 1. What are the most common crimes reported in terms of offense group?
-# 2. How has the number of crimes changed over the years?
+## 2. How has the number of crimes changed over the years?
 ## 3. Do more crimes occur on certain dates of the month?
 ## 4. Have there been more crimes in any month over the past years?
 ## 5. Does crime tend to increase at certain times of the day?
