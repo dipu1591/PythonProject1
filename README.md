@@ -17,26 +17,6 @@ The Metropolitan Police of Hamburg has recently embarked on an initiative to har
 ## 9. How has the frequency of different types of crimes changed over time?
 ## 10. What proportion of the incidents involved shootings?
 
-**1. What are the most common crimes reported in terms of offense group?**
-<br/>
-**2. How has the number of crimes changed over the years?**
-<br/>
-**3. Do more crimes occur on certain dates of the month?**
-<br/>
-**4. Have there been more crimes in any month over the past years?**
-<br/>
-**5. Does crime tend to increase at certain times of the day?**
-<br/>
-**6. In which months were the number of crimes above average?**
-<br/>
-**7. Are certain times of the day more prone to specific types of crimes?**
-<br/>
-**8. Which districts have the highest number of crimes?**
-<br/>
-**9. How has the frequency of different types of crimes changed over time?**
-<br/>
-**10. What proportion of the incidents involved shootings?**
-
 <br/>
 
 To address these inquiries, the `Project_Solution.ipynb` file within this repository presents a comprehensive analysis, employing advanced statistical techniques and data preprocessing to visualize the findings. This approach not only elucidates the underlying patterns and trends in crime data but also equips the Hamburg Metropolitan Police with actionable insights to refine their operational strategies effectively. The data utilized within this project is contained within the `Crime.csv` file.
