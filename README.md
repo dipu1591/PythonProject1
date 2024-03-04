@@ -13,14 +13,19 @@ The Metropolitan Police of Hamburg has recently embarked on an initiative to har
 9. How has the frequency of different types of crimes changed over time?
 10. What proportion of the incidents involved shootings?
 
+<br/>
 
 To address these inquiries, the `Project_Solution.ipynb` file within this repository presents a comprehensive analysis, employing advanced statistical techniques and data preprocessing to visualize the findings. This approach not only elucidates the underlying patterns and trends in crime data but also equips the Hamburg Metropolitan Police with actionable insights to refine their operational strategies effectively.
 
+<br/>
 
 I cordially invite you to review the `Project_Solution.ipynb` file, where the outcomes of our analytical endeavors are meticulously documented through insightful visualizations and interpretations, paving the way for data-driven enhancements in public safety measures.
 
+<br/>
 
+<br/>
 
+<br/>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu1591/)
