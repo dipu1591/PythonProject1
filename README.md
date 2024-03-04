@@ -1,1 +1,1 @@
-# PythonProject1
+Executed a crime data analysis project, answering solutions to ten critical queries using Python programming, delivering deep insights through statistical analysis and visualizations on common offenses, crime frequency, yearly trends, high-risk locations, and shooting incidents, aiding in the optimization of patrol schedules, resource allocation, and preventive measures.
