@@ -4,9 +4,9 @@ The Metropolitan Police of Hamburg has recently embarked on an initiative to har
 
 <br/>
 
-## 1. What are the most common crimes reported in terms of offense group?
+# 1. What are the most common crimes reported in terms of offense group?
 ## 2. How has the number of crimes changed over the years?
-## 3. Do more crimes occur on certain dates of the month?
+# # 3. Do more crimes occur on certain dates of the month?
 ## 4. Have there been more crimes in any month over the past years?
 ## 5. Does crime tend to increase at certain times of the day?
 ## 6. In which months were the number of crimes above average?
